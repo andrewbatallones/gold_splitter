@@ -8,7 +8,7 @@ with open('README.md', 'r') as fh:
 
 setup(
 	name='gold_splitter',
-    url='tba',
+    url='https://github.com/andrewbatallones/gold_splitter',
     author='Andrew Batallones',
     author_email='batallonesa@gmail.com',
 	version='0.0.1',
